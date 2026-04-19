@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">SIMON</string>
+<string name="clear">Cancel</string>
+<string name="end">End game</string>
+    <string name="sequence">sequence:</string>
+</resources>
